@@ -1,0 +1,16 @@
+{
+    "name": "SoftwareSerial",
+    "keywords": "Software, Serial, iot, arduino, uno",
+    "description": "Biblioteca para projeto de prática de conhecimento com o sensor de nivel da Caixa d'agua.",
+    "repository": {
+        "type": "git",
+        "url": " https://github.com/gaitolini/SoftwareSerial"
+    },
+    "version": "1.0",
+    "exclude": "tests",
+    "examples": "examples/*/*.ino",
+    "frameworks": "arduino",
+    "platforms": [
+        "atmelavr"
+    ]
+}
